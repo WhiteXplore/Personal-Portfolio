@@ -1,2 +1,2 @@
 # Personal-Portfolio
-My
+My Personal Portfolio using Vue Js with Tailwind Css.
